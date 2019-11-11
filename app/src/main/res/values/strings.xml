@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Utilisation des menus (Action bar)</string>
+    <string name="exit">exit</string>
+    <string name="app1">app1</string>
+    <string name="app2">app2</string>
+    <string name="add">add</string>
+    <string name="reset">reset</string>
+    <string name="about">about</string>
+    <string name="home">home</string>
+</resources>
